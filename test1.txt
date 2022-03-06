@@ -10,3 +10,4 @@ Job started in 2022.
 I will join Mfile at dec 1.
 Logo alignment is centerd.
 Text alignment is centered.
+Heading tags are converted to h3.
